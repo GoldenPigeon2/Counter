@@ -1,0 +1,51 @@
+.buttons {
+    font-size:1.5em;
+    font-family:verdana;
+    padding: 0px;
+    text-align:center;
+}
+
+#myLabel {
+    font-size:4em;
+    font-family:verdana;
+    text-align:center;
+    display: block;
+}
+
+#btn1 {
+    background-color: red;
+    cursor: pointer;
+    color: white;
+    border-radius: 20px;
+    font-size: 20px;
+    transition: background-color 0.25s;
+}
+
+#btn1:hover {
+    background-color: darkred;
+}
+
+#btn2 {
+    background-color:yellow;
+    cursor: pointer;
+    border-radius: 20px;
+    font-size: 20px;
+    transition: background-color 0.25s;
+}
+
+#btn2:hover {
+    background-color: whitesmoke;
+}
+
+#btn3 {
+    background-color: green;
+    cursor:pointer;
+    color: white;
+    border-radius: 20px;
+    font-size: 20px;
+    transition: background-color 0.25s;
+}
+
+#btn3:hover {
+    background-color: darkgreen;
+}
